@@ -18,4 +18,4 @@ settings:
   check-interval: 5s
   default-executor: jmeter
 
-provisioning: local
+
